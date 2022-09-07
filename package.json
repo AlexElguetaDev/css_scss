@@ -1,0 +1,15 @@
+{
+  "name": "css_sass",
+  "version": "1.0.0",
+  "description": "![LarnU](../_src/assets/00-PrimerosPasos/logo_LarnU.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.8"
+  }
+}

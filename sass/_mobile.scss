@@ -1,0 +1,14 @@
+@media (max-width: 640px) {
+.container {
+    grid-template-columns: 1fr;
+    grid-template-rows: .5fr .5fr 1.5fr 1.5fr 1fr 1fr 1fr;
+    grid-template-areas:
+        "item1 item1 item1 item1"
+        "item2 item2 item2 item2"
+        "item3 item3 item3 item3"
+        "item4 item4 item4 item4"
+        "item7 item7 item7 item7"
+        "item6 item6 item6 item6"
+        "item5 item5 item5 item5"
+    }
+}
